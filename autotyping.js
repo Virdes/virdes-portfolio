@@ -119,7 +119,7 @@ var AutoTyping = (function (e) {
 ]).default;
 
 
-const exampleText = ['JavaScript', 'React', 'NodeJs', 'Next Js'];
+const exampleText = ['JavaScript', 'ReactJs', 'NodeJs', 'NextJs'];
 const exampleTyping = new AutoTyping('#text', exampleText, {
     typeSpeed: 100,
     deleteSpeed: 100,
